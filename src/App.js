@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-		Hello, World!
+		Hello, World! Welcome to the Git demo.
       </header>
     </div>
   );
